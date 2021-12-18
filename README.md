@@ -1,2 +1,2 @@
 # LearningNodeJS
- All the programs from NodeJs and web dev course
+ All programs from NodeJS Course
