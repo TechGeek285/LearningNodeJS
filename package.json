@@ -1,6 +1,7 @@
 {
   "name": "learningnodejs",
   "version": "1.0.0",
+<<<<<<< Updated upstream
   "description": "Learning Code JS",
   "main": "index.js",
   "dependencies": {
@@ -166,20 +167,43 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+=======
+  "description": "All programs from NodeJS Course",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+>>>>>>> Stashed changes
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TechGeek285/LearningNodeJS.git"
   },
+<<<<<<< Updated upstream
+=======
+  "keywords": [
+    "nodejs",
+    "express",
+    "ejs",
+    "programming"
+  ],
+>>>>>>> Stashed changes
   "author": "Charlie Mogg",
   "license": "GPL-2.0-or-later",
   "bugs": {
     "url": "https://github.com/TechGeek285/LearningNodeJS/issues"
   },
   "homepage": "https://github.com/TechGeek285/LearningNodeJS#readme",
+<<<<<<< Updated upstream
   "keywords": [
     "NodeJs",
     "Coding",
     "Code"
   ]
+=======
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+>>>>>>> Stashed changes
 }
